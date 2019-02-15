@@ -13,14 +13,14 @@ sass:
 title: Murilo Holanda
 description: "Personal site"
 url: https://murilolh.github.io
-repo: http://github.com/murilolh
+repo: https://github.com/murilolh
 baseurl: ""
 
 # Author settings
 author:
   name: Murilo Holanda
   job: Software Developer
-  bio: "BSc in Computer Science, IT Professional with over 8 years of experience in development, migration, innovation, research, deployment and maintenance projects."
+  bio: "BSc in Computer Science, IT Professional with over 7 years of experience in development, migration, innovation, research, deployment and maintenance projects."
   thumb: /images/author.jpg
   email: mailto:murilolh@gmail.com
   url: https://murilolh.github.io/

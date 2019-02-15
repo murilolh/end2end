@@ -15,4 +15,4 @@ In 2013 I was selected for an IT Analyst position at [Dataprev](https://portal.d
 
 I'v always wanted to live and work abroad, and Canada was my country of choice, as it will be both a great life and professional experience. In 2017 I started a process to be a Canadian Permanent Resident, which I was concluded in 2018 when I arrived in Toronto, a growing IT market.
 
-For more information about my professional career your can refer to my Linkedin and Github pages below.
+For more information about my professional career your can refer to my [Linkedin](https://linkedin.com/in/murilolh) and [Github](https://github.com/murilolh) pages.
